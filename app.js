@@ -45,7 +45,6 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(makePopupContent(feature), { closeButton: false, offset: L.point(0, -8) });
 }
 
-/* Use own icon */
 var myIcon = L.icon({
     iconUrl: 'marker.png',
     iconSize: [50, 60]

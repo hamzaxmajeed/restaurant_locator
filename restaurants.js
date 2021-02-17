@@ -1,4 +1,4 @@
-/* Using format of GeoJSON to list the restaurants*/
+/* Used format of GeoJSON to list the restaurants*/
 
 const restaurantList = [
       {
